@@ -1,0 +1,7 @@
+.table > tbody > tr > * {
+    vertical-align: middle;
+}
+
+.img-thumbnail {
+    width: 25vh;
+}
